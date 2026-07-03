@@ -1,0 +1,1 @@
+506bad9a-76ac-4e1f-bb38-da55e98e3d12 autoenable=true bucket=cneuromod.emotion-videos.glm chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.emotion-videos.glm port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1783083756s
